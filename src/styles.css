@@ -26,6 +26,10 @@ img {
   text-align: center;
 }
 
+footer {
+  text-align: center;
+}
+
 .card {
   display: block;
   margin: 20px auto;
